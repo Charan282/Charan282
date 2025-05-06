@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sri Naga Charan Gampala</h1>
 <h3 align="center">Aspiring Data & Cloud Engineer passionate about transforming data into insights using AWS, Azure, Databricks, and Power BI. I’ve built end-to-end ETL pipelines, visual dashboards, and cloud-native solutions with tools like Glue, Athena, Synapse, and PySpark. As a certified AWS Solutions Architect, Power BI Analyst, and Databricks Data Engineer, I’m committed to learning continuously, building real-world projects, and growing into a world-class data professional.</h3>
+<img src="https://raw.githubusercontent.com/Charan282/Charan282/main/Working-bro%20(1).svg" alt="Working Illustration" width="400"/>
+
+*Illustration by [Storyset](https://storyset.com/job)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
