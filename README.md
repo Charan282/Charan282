@@ -3,7 +3,8 @@
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <!-- Larger Image on Left -->
- <img src="https://raw.githubusercontent.com/Charan282/Charan282/main/Working_bro.svg" alt="Working Illustration" width="230" align="left" style="margin-right: 20px;"/>
+
+<img src="https://raw.githubusercontent.com/Charan282/Charan282/main/Working_bro.svg" alt="Working Illustration" width="300" align="left" style="margin-right: 20px;"/>
 
 <h3>🛠️ I’m a <strong>Data & Cloud Engineering Enthusiast</strong></h3>
 
@@ -24,7 +25,6 @@
 
 <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srinagacharang/" target="_blank">srinagacharang</a></p>
 <p>🌐 <strong>Portfolio:</strong> <a href="https://srinagacharangportfolio.netlify.app/" target="_blank">My Work</a></p>
-
 
 
 
