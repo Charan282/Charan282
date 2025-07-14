@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Charan282/Charan282/main/Working_bro.svg" alt="Working Illustration" width="300" align="left" style="margin-right: 20px;"/>
 
-<h3>🛠️ I’m a <strong>Data & Cloud Engineering Enthusiast</strong></h3>
+<h3>🛠️ I’m a <strong>Data, Software & Cloud Engineering Enthusiast</strong></h3>
 
 <p>📌 <strong>Master’s in Data Science</strong> @ University at Buffalo (May 2025)</p>
 
@@ -24,7 +24,7 @@
 <p>💡 Actively seeking full-time opportunities in <strong>Data Engineering</strong> & <strong>Cloud Engineering</strong></p>
 
 <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srinagacharang/" target="_blank">srinagacharang</a></p>
-<p>🌐 <strong>Portfolio:</strong> <a href="https://srinagacharangportfolio.netlify.app/" target="_blank">My Work</a></p>
+<p>🌐 <strong>Portfolio:</strong> <a href="https://srinagacharangportfolio.netlify.app/" target="_blank">My Website</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
