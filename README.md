@@ -8,6 +8,8 @@
 
 <h3>🛠️ I’m a <strong>Data, Software & Cloud Engineering Enthusiast</strong></h3>
 
+<p>📌 <strong>SDE at</strong> @ Stripe </p>
+
 <p>📌 <strong>Master’s in Data Science</strong> @ University at Buffalo (May 2025)</p>
 
 <p>🎓 <strong>Certified:</strong><br>
