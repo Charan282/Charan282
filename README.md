@@ -26,7 +26,7 @@
 <p>💡 Actively seeking full-time opportunities in <strong>Data Engineering</strong> & <strong>Cloud Engineering</strong></p>
 
 <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srinagacharang/" target="_blank">srinagacharang</a></p>
-"""<p>🌐 <strong>Portfolio:</strong> <a href="https://srinagacharangportfolio.netlify.app/" target="_blank">My Website</a></p>"""
+
 
 
 <h3 align="left">Languages and Tools:</h3>
